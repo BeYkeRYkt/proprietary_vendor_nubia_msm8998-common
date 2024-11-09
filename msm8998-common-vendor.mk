@@ -375,10 +375,10 @@ PRODUCT_PACKAGES += \
     SoterService \
     CneApp \
     TimeService \
+    PowerOffAlarm \
     QtiTelephonyService \
     datastatusnotification \
     uceShimService \
-    PowerOffAlarm \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
